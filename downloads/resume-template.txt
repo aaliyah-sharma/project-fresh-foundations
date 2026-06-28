@@ -1,0 +1,21 @@
+FIRST LAST
+City, State | Phone | Email
+
+SUMMARY
+Reliable and motivated candidate seeking an entry-level role. Strong communication,
+teamwork, and problem-solving skills.
+
+EXPERIENCE
+Role or Volunteer Position
+Organization | Month Year - Month Year
+- Describe what you did using action verbs.
+- Include customer service, teamwork, leadership, or reliability.
+
+EDUCATION
+School Name | Expected Graduation or Completion Date
+
+SKILLS
+Communication | Time Management | Teamwork | Organization | Technology
+
+REFERENCES
+Available upon request.
